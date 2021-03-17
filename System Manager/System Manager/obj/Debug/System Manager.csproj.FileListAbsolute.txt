@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\System Manager\System Manager\bin\Debug\System Manager.exe.config
+C:\Users\Asus\source\repos\System Manager\System Manager\bin\Debug\System Manager.exe
+C:\Users\Asus\source\repos\System Manager\System Manager\bin\Debug\System Manager.pdb
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System Manager.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Manager.resources
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Properties.Resources.resources
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System Manager.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System Manager.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System Manager.exe
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System Manager.pdb
+C:\Users\Asus\source\repos\System Manager\System Manager\obj\Debug\System_Manager.Process_Info.resources
